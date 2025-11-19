@@ -124,7 +124,9 @@ Autonomous-Maze-Robot-TIRTOS/
 └── README.md
 
 
-All modules are separated for easier modification and extensions.
+  
+
+
 
 🧩 6. System Behavior
 Autonomous Navigation
