@@ -74,7 +74,7 @@ Extract into:
 C:\ti\TivaWare
 
 Step 3 — Clone This Repository
-git clone https://github.com/<your-username>/Autonomous-Maze-Robot-TIRTOS.git
+git clone https://github.com/ANIL-RONGALA/Autonomous-Maze-Robot-TIRTOS.git
 
 Step 4 — Import the Project Into CCS
 File → Import → CCS Projects → Select Repository Folder
@@ -95,8 +95,7 @@ Connect HC-05 to UART1 (PC4/PC5 recommended)
 Power robot with 6×AA battery pack
 
 Step 6 — Build and Run
-Project → Build
-Run → Debug
+Project → Build → Run → Debug
 
 
 Open a Bluetooth terminal (9600 baud), pair with HC-05 (1234), and send:
