@@ -245,7 +245,7 @@ Swarm decision-making
 
 ## 📝 9. Acknowledgments
 
-This project was developed using conventional embedded-systems design practices, TI-RTOS kernel features, control theory, and robotics fundamentals under the 
+This project was developed using conventional embedded-systems design practices, TI-RTOS kernel features, control theory, and robotics fundamentals under the guidance of [Dr. Yuha Chen](https://www.ece.uh.edu/faculty/chen-yuhua) & [Dr.Hung Harry Le](https://www.ece.uh.edu/faculty/le-harry) Department of Electrical and Computer Engineering, University of Houston
 
 Note:
 A small portion of documentation wording was enhanced using AI tools to improve clarity and structure.
